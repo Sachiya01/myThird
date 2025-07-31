@@ -24,3 +24,5 @@ jobs:
 
       - name: Push image 
         run: docker push sachiya01/app
+
+        ##
